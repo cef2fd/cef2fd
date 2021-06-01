@@ -4,7 +4,7 @@ I'm an interior designer in DC but looking to make a
 career change into software development!
 
 
-Learning: HTML5, Python, JavaScript 
+Learning: Python 3
 
 
 <!---
